@@ -1,0 +1,4 @@
+/build/
+/vendor/
+dump.rdb
+tests/shunit2
